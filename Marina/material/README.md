@@ -33,7 +33,7 @@ Este estudo é relevante para ajudar futuras profissionais de tecnologia a enten
 
 
 
-##  Fonte dos Dados 📊
+##  Fonte dos Dados 🗂️​
 
 Os dados utilizados neste projeto foram obtidos do [Kaggle](https://www.kaggle.com/), uma plataforma que fornece datasets acessíveis para análise e modelagem.
 
@@ -49,16 +49,16 @@ Os dados utilizados neste projeto foram obtidos do [Kaggle](https://www.kaggle.c
 -  *Pandas*: Para manipulação da base de dados.
 -  *Matplotlib/Seaborn* : Para criação de gráficos exploratório
 
+
+## Visualizações dos dados no Tableau 📊
+
+[Visualização](https://public.tableau.com/shared/GQ8KNZRJ6?:display_count=n&:origin=viz_share_link)
+
 ## Autoras do projeto ✍️​
 
-Amanda Paula
-
-Marina de Oliveira
-
-Paula Adriele
 
 - [@Paula4444](https://github.com/Paula4444)
-
+- [@marinaoliv](https://github.com/marinaoliv)
 - [@AmanndaPaula](https://github.com/AmanndaPaula)
 
 
